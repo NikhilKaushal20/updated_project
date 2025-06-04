@@ -1,5 +1,5 @@
 # Digit Recognition
-Handwritten Digit Recognition using OpenCV, sklearn
+Handwritten Digit Recognition
 
 **for complete notes on how the code works.**
 
@@ -45,9 +45,11 @@ python performRecognition.py -c digits_cls.pkl -i photo_1.jpg
 ## Results
 
 ### Sample Image 1
-![Result Number 1](http://hanzratech.in/figures/digit-reco-1-out.png)
+![photo_1](https://github.com/user-attachments/assets/8cf62a9f-b1fb-4931-b02c-39fb4a7f72c4)
+
 ### Sample Image 2
-![Result Number 2](http://hanzratech.in/figures/digit-reco-2.png)
+![photo_2](https://github.com/user-attachments/assets/b3b06188-a4d7-4df4-a164-5223c44552c9)
+
 
 ## TODO
 
